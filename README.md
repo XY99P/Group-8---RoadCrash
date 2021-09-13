@@ -3,9 +3,9 @@
 
 ---
 - [Instructions](#instructions)
-  - [How to create a new folder?](#how-to-create-a-new-folder?)
-  - [How to download files?](#how-to-download-files?)
-  - [How to delete?](#how-to-delete?)
+  - [How to create a new folder?](#how-to-create-a-new-folder)
+  - [How to download files?](#how-to-download-files)
+  - [How to delete?](#how-to-delete)
 ---
 ## Instructions
 ### How to create a new folder?
