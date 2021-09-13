@@ -1,7 +1,10 @@
 # DATA7001---Group-8---Road-Crash
 `Formal git usage requires relevent software, since our project is not very complicated, we'll just use basic operations. :)`
 
-------
+---
+- [Instructions](#instructions)
+ - [How to create a new folder?](#how-to-create-a-new-folder?)
+---
 ## Instructions
 ### How to create a new folder?
 <img src="https://user-images.githubusercontent.com/89439984/133027074-072f2ff2-4e59-4282-a2df-5736dd7792d6.png" width=50% height=50% />
@@ -19,3 +22,12 @@ Uploading files is likewise.
 
 * <strong>Download one specific file:</strong>
 Rightclick on that file and choose `save the link as`
+
+### How to delete?
+* <strong>Delete folder:</strong>
+Click into that folder and:
+<img src="https://user-images.githubusercontent.com/89439984/133036806-d036d4a5-1214-4dad-8dea-843b52b173c1.png" width=50% height=50% />
+
+* <strong>Delete file:</strong>
+Click into that file and:
+<img src="https://user-images.githubusercontent.com/89439984/133037050-7357a088-440e-4aae-ab4f-42310123e474.png" width=50% height=50% />
