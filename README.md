@@ -1,5 +1,5 @@
 # DATA7001---Group-8---Road-Crash
-`Formal git usage requires relevent software, since our project is not very complicated, basic operations . :)`  
+`Formal git usage requires relevent software, since our project is not very complicated, basic operations will suffice. :)`  
 `You can update this as you want!`
 
 ---
